@@ -1,2 +1,2 @@
-# python
-for myself to study
+# python_study for myself
+我想要把我学到的有关Python的东西存储在这里，首先是对我自己来说起到一个巩固的作用，其次我会在未来学习过程中不断改进来达到真正值得大家借鉴的程度，以达到传承的目的
